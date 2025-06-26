@@ -1,4 +1,4 @@
-# SpuerStoreSalesDashboard
+# SuperStoreSalesDashboard
 This is a sales dasboard 
 Project Learnings 
 Applied advanced data analysis techniques with a focus on time series analysis.
